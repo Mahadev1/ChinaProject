@@ -5,6 +5,6 @@ public class Iaminchina {
     public static void main(String[]args){
         System.out.println("----iam in china ------Indian guy-----");
 
-        System.out.println("----iam in china ------Indian---Aamerican-");
+        System.out.println("----iam in china ------Indian---Aamerican-UK");
     }
 }
